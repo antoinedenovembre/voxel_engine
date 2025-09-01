@@ -2,7 +2,7 @@
 /build
 
 # mk files
-*.mk
+/make
 
 # MacOS
 .DS_Store
